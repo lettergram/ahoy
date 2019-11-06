@@ -1,11 +1,5 @@
 # Ahoy 3 Upgrade
 
-Ahoy 3.0 brings a number of exciting changes:
-
-- jQuery is no longer required
-- Uses `navigator.sendBeacon` by default in supported browsers
-- Simpler interface for data stores
-
 ## How to Upgrade
 
 Update your Gemfile:
